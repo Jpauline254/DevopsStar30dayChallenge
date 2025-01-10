@@ -1,4 +1,4 @@
-# Weather Dashboard Demo
+# 30 Day DevOps Challenge | Day 1 | Weather Dashboard Demo
 
 This project demonstrates how to build a weather dashboard using Python and AWS. It fetches weather data from the OpenWeather API and saves it to an AWS S3 bucket. The application follows best practices for project structure, version control, and dependency management.
 
